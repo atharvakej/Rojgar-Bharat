@@ -7,8 +7,7 @@
   "scripts": {
     "server": "nodemon server",
     "dev": "nodemon server",
-    "build" : "npm i"
-    
+    "build": "vite build" 
   },
   "keywords": [],
   "author": "",
